@@ -6,7 +6,7 @@
  |		| |  | | | | | (_| |  __/
  |		\_|  |_/_|_|  \__,_|\___|
  |
- |				Bot made by 아카먀#1007 
+ |				Bot made by 아카먀#0346
  |				This bot has been made for a school project
  |				It's still a bit buggy, but I'm definitely gonna
  |				patch it and provide a better version of it
