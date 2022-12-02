@@ -9,7 +9,7 @@
  |				Bot made by Not Alenya#8838
  |				This bot has been made for a school project
  |				It's still a bit buggy, but I'm definitely gonna
- |				patch it and provide a better version of it
+ |				patch it and provide a better version of it.
  */
 package mirae;
 
